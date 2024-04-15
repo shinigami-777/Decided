@@ -8,4 +8,5 @@ So let ```Decided``` decide for you!
 [Click here](https://shinigami-777.github.io/Decided/) to visit site.
 
 ### Video of the working site
-[![Watch Me](./img/web-page-image.png)](https://shinigami-777.github.io/Decided/Decided.mp4)
+https://github.com/shinigami-777/Decided/assets/139495942/591cad11-b494-45bf-b4b6-7ed556fefe3e
+
